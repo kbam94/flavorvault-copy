@@ -1,0 +1,7 @@
+{
+  "name": "FlavorVault",
+  "description": "A polished mobile-first recipe manager with search, filtering, and favorites.",
+  "model": "google/gemma-4-31b-it",
+  "prompt": "Build me a polished mobile-first recipe manager. Users should be able to add recipes with a name, ingredients, instructions, cooking time, and category, edit recipes, delete recipes, search recipes, and filter recipes by category. Allow users to mark recipes as favorites. Persist all recipes and favorites in localStorage. Use a dark modern interface with attractive recipe cards optimized for phone screens. Use only HTML, CSS, and plain JavaScript.",
+  "generatedAt": "2026-09-25T08:07:32.987Z"
+}
